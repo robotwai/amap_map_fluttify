@@ -9,7 +9,7 @@
 /// 地图的! 必须通过[AmapController]来控制地图.
 ///
 /// [AmapController]中开放了所有控制地图需要的接口, 具体可以查看[AmapController]内的注释.
-library amap_map_fluttify;
+library amap_map_fluttify_lz;
 
 export 'package:amap_location_fluttify/amap_location_fluttify.dart';
 export 'package:amap_search_fluttify/amap_search_fluttify.dart';
