@@ -1,11 +1,11 @@
-name: amap_map_fluttify_lz
+name: amap_map_fluttify
 description: An `Amap` Map Component, Powered By `Fluttify` Compiler, A Dart Bindings Generator For Native SDK.
 version: 0.0.1
 homepage: https://github.com/robotwai/amap_map_fluttify
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
-#  flutter: ">=1.12.13 <2.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
