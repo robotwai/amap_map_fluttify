@@ -1,7 +1,6 @@
 name: amap_map_fluttify_lz
 description: An `Amap` Map Component, Powered By `Fluttify` Compiler, A Dart Bindings Generator For Native SDK.
 version: 0.0.1
-author: lz <li798165486@gmail.com>
 homepage: https://github.com/robotwai/amap_map_fluttify
 
 environment:
